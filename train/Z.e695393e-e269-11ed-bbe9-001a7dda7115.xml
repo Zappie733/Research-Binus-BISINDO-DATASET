@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>Z.e695393e-e269-11ed-bbe9-001a7dda7115.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\Z.e695393e-e269-11ed-bbe9-001a7dda7115.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Z</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>166</ymin>
+			<xmax>218</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

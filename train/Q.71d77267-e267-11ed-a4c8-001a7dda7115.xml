@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>Q.71d77267-e267-11ed-a4c8-001a7dda7115.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\Q.71d77267-e267-11ed-a4c8-001a7dda7115.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Q</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>250</ymin>
+			<xmax>384</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>
